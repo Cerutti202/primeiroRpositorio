@@ -1,0 +1,2 @@
+
+Apenas para **ressaltar** que o aprendi a usar  o aplicativo **StackEdit** no proprio **desafio** de **criar o repositorio,** então ja **me sinto** muito **mais capaz** apenas com **meu primeiro desafio.**
