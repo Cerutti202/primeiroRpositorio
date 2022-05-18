@@ -27,3 +27,7 @@ I_:closed_book: bootGFT
 ..   I_:green_book: cursoJava
 ... ... I_:page_with_curl: anotaçõesAulaDiaDDMMAA
 
+:warning::rotating_light:**IMPORTANTE.**:rotating_light::warning:
+ As contas [@cerutti101](https://github.com/cerutti101) :bust_in_silhouette: e  [@cerutti202](https://github.com/Cerutti202) :busts_in_silhouette:  são **minhas!** 
+  Duas contas? Isso mesmo, e a diferença entre elas eu te falo...  a @cerutti101 usa meu  email [:email: de contato.](mailto:cerutti321@gmail.com?subject=Vi%20seu%20respositorio%20no%20github&body)
+  e a @cerutti202 o estudantil:mortar_board:.
